@@ -13,7 +13,7 @@ jobs:
         id: docker_meta
         uses: crazy-max/ghaction-docker-meta@v1
         with:
-          images: ${{ secrets.DOCKERHUB_USERNAME}}/api-courses-server
+          images: ${{ secrets.DOCKERHUB_USERNAME}}/api-project-pdi
           tag-sha: true
 
       - name: QEMU

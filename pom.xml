@@ -22,7 +22,10 @@
         <jacoco.version>0.8.8</jacoco.version>
         <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
         <sonar.language>java</sonar.language>
-        <sonar.qualitygate.wait>true</sonar.qualitygate.wait>
+        <sonar.language>java</sonar.language>
+        <sonar.organization>jian-kowalski</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectKey>jian-kowalski_project_pdi</sonar.projectKey>
     </properties>
     <dependencies>
         <dependency>
