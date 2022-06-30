@@ -1,4 +1,7 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jian-kowalski_project_pdi&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=jian-kowalski_project_pdi)
+
 # Projeto base
+
 
 Esse projeto tem por objetivo servir de base para outros projetos da equipe, ele consiste em um crud básico de cadastro
 de produtos, e tem uma cobertura básicas de testes de interação, negocio e de arquitetura.
