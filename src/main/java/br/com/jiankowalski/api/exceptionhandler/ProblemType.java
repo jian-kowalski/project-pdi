@@ -18,7 +18,7 @@ enum ProblemType {
   private String uri;
 
   ProblemType(String path, String title) {
-    this.uri = "https://highkube.sankhyacloud.com.br" + path;
+    this.uri = "" + path;
     this.title = title;
   }
 }
